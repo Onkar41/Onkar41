@@ -1,6 +1,6 @@
 
 
-### Hi Visiter👋
+### Hi Visiters👋
 ### 💫 About Me:<br>
 👨‍💻 Third year BCA student<br>🌱 I have intermidiate knowledge in c,c++ php, java,python,R,web development, operating system.
 <br>🔭 I was completed my second year project that based on buying and selling process that posted hear.
