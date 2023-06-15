@@ -8,6 +8,8 @@
 
 
 ## 🌐 Socials:
+[![Lingdin](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/its_onkar41/) 
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/its_onkar41/) 
 
 # 💻 Tech Stack:
