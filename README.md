@@ -2,7 +2,7 @@
 
 ### Hi Visiters👋
 ### 💫 About Me:<br>
-👨‍💻 First year MCA student<br>🌱 I have intermidiate knowledge in c,c++ php, java,python,R,web development, operating system.
+👨‍💻 Second year MCA student<br>🌱 I have intermidiate knowledge in c,c++ php, java,python,R,web development, operating system.
 <br>🔭 I was completed my second year project that based on buying and selling process that posted hear.
 <br><br>
 
